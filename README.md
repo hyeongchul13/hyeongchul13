@@ -5,7 +5,7 @@
 <a href="https://git-scm.com/"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-badge&logo=git&logoColor=white"/></a> &nbsp
 
 
-
+<!--
 <h3 align="center"><b>🌌 Statistics 🌌</b></h3></br>
 <p align="center">
 <a href="https://github.com/hyeongchul13/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=hyeongchul13&theme=omni&show_icons=true"/></a> &nbsp 
