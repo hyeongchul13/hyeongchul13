@@ -1,5 +1,14 @@
-### Hi there 👋
+<h3 align="center"><b>💜 Tools 💜</b></h3></br>
+<p align="center">	
+<a href="https://www.jetbrains.com/company/brand/"> <img src="https://img.shields.io/badge/IntelliJ IDEA-0071C5?style=flat-badge&logo=IntelliJ IDEA&logoColor=white"/></a> &nbsp 
+<a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=MySQL&logoColor=white"/></a> <br>
+<a href="https://git-scm.com/"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-badge&logo=git&logoColor=white"/></a> &nbsp
+<br>
 
+
+<h3 align="center"><b>🌌 Statistics 🌌</b></h3></br>
+<p align="center">
+<a href="https://github.com/hyeongchul13/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=hyeongchul13&theme=omni&show_icons=true"/></a> &nbsp 
 <!--
 **hyeongchul13/hyeongchul13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
