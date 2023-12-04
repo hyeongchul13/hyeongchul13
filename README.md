@@ -11,6 +11,10 @@
 
 
 
+  안녕하세요! 열심히 공부하고 노력하는 개발자 이형철입니다~
+
+
+
 <!--
 <h3 align="center"><b>🌌 Statistics 🌌</b></h3></br>
 <p align="center">
